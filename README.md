@@ -79,24 +79,24 @@ The administrative dashboard for hotel owners to monitor total bookings, track t
 
 ### Add Room
 The interface for hotel owners to add new room listings, including options to upload images, specify room type, price, and amenities.
-![Add Room](ss/Screenshot13.png)
+![Add Room](ss/Screenshot11.png)
 
 
 ### Room Listings
 A page displaying all listed rooms, their facilities, price per night, and an action toggle for availability.
-![Room Listings](ss/Screenshot14.png)
+![Room Listings](ss/Screenshot12.png)
 
 ### My Bookings (Unpaid)
 A user's booking history, showing an unpaid reservation for "Hotel Shree Villa" with an option to "Pay Now."
-![My Bookings (Unpaid)](ss/Screenshot15.png)
+![My Bookings (Unpaid)](ss/Screenshot13.png)
 
 ### My Bookings (Paid)
 A user's booking history, showing a successfully paid reservation for "Hotel Shree Villa" with check-in and check-out dates.
-![My Bookings (Paid)](ss/Screenshot11.png)
+![My Bookings (Paid)](ss/Screenshot14.png)
 
 ### Owner Dashboard with Live Chat
 The hotel owner's dashboard displaying total bookings and revenue, along with a live chat interface on the right.
-![Owner Dashboard with Live Chat](ss/Screenshot12.png)
+![Owner Dashboard with Live Chat](ss/Screenshot15.png)
 
 
 
