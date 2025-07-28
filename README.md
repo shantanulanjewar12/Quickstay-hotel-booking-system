@@ -26,19 +26,13 @@
 ---
 
 🔁 Frontend-Backend Flow
-React frontend sends authenticated API requests using Axios.
-
-Clerk manages user sessions; tokens are passed in headers.
-
-Backend verifies user via Clerk middleware.
-
-Cloudinary handles image uploads from hotel owners.
-
-Stripe processes booking payments and notifies backend.
-
-Inngest runs async workflows or serverless tasks.
-
-Nodemailer sends booking confirmation emails.
+- React frontend sends authenticated API requests using Axios.
+- Clerk manages user sessions; tokens are passed in headers.
+- Backend verifies user via Clerk middleware.
+- Cloudinary handles image uploads from hotel owners.
+- Stripe processes booking payments and notifies backend.
+- Inngest runs async workflows or serverless tasks.
+- Nodemailer sends booking confirmation emails.
 
 
 ---
