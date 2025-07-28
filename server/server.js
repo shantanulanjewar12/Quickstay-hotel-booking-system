@@ -17,7 +17,11 @@ await connectDb();
 await connectCloudinary();
 
 const app = express();
-const allowedOrigins = ["https://quickstay-mbcjan5g2-shantanus-projects-6dff41f7.vercel.app", "http://localhost:5173" , ];
+const allowedOrigins = [
+  "https://quickstay-mbcjan5g2-shantanus-projects-6dff41f7.vercel.app",
+  "https://quickstay-o58ajhgaf-shantanus-projects-6dff41f7.vercel.app",
+  "http://localhost:5173",
+];
 
 app.use(cors({
   origin: function(origin, callback){
