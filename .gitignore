@@ -1,0 +1,24 @@
+# Ignore all node_modules
+client/node_modules/
+server/node_modules/
+node_modules/
+
+# Ignore env files
+client/.env
+client/.env.local
+server/.env
+.env
+.env.local
+
+# Ignore log files
+*.log
+
+# Ignore OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Ignore lock files (optional)
+package-lock.json
+client/package-lock.json
+server/package-lock.json
