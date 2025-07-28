@@ -41,7 +41,7 @@ Inngest runs async workflows or serverless tasks.
 Nodemailer sends booking confirmation emails.
 
 
-
+---
 
 ## 🧰 Tech Stack
 
@@ -86,32 +86,42 @@ QuickStay/
 │   ├── .env              # Server environment variables
 │   └── server.js         # Express server entry
 
-
+```
 
 ---
 
 ## 🔧 Installation & Setup
 
 ### 📦 Backend (Express Server)
-
 ```bash
 cd server
 npm install
 npm run server  # Starts server at http://localhost:5000
+```
+
+---
 
 
 ### 🌐 Frontend (React Vite App)
+```bash
 cd client
 npm install
 npm run dev     # Starts frontend at http://localhost:3000
+```
+
+---
+
 
 ###🙌 Acknowledgments
+```bash
 Clerk.dev – for Authentication
 Stripe – for Payment Integration
 Cloudinary – for Image Uploads
 Nodemailer – for Email Notifications
 Inngest – for Serverless Workflows
+```
 
+---
 
 ###🏆 Built with Passion, Shared with the Community
 "Travel should be easy. Booking should be effortless."
