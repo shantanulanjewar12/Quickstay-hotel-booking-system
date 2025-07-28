@@ -17,21 +17,16 @@ await connectDb();
 await connectCloudinary();
 
 const app = express();
-const allowedOrigins = [
-  "https://quickstay-mbcjan5g2-shantanus-projects-6dff41f7.vercel.app",
-  "https://quickstay-o58ajhgaf-shantanus-projects-6dff41f7.vercel.app",
-  "http://localhost:5173",
-];
-
 app.use(cors({
   origin: function(origin, callback){
     // allow requests with no origin like mobile apps or curl requests
     if(!origin) return callback(null, true);
-    if(allowedOrigins.indexOf(origin) === -1){
-      const msg = 'The CORS policy for this site does not allow access from the specified Origin.';
-      return callback(new Error(msg), false);
+    const vercelOriginPattern = /\.vercel\.app$/;
+    if(vercelOriginPattern.test(origin)){
+      return callback(null, true);
     }
-    return callback(null, true);
+    const msg = 'The CORS policy for this site does not allow access from the specified Origin.';
+    return callback(new Error(msg), false);
   },
   credentials: true
 }));
