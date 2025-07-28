@@ -39,23 +39,23 @@
 
 ### Homepage - Discover Your Perfect Gateway Destination
 The landing page of QuickStay, showcasing a visually appealing background and the main search functionality for destinations, check-in/check-out dates, and guests.
-![Homepage - Discover Your Perfect Gateway Destination](ss/Screenshot1.jpg)
+![Homepage - Discover Your Perfect Gateway Destination](ss/Screenshot1.png)
 
 ### Exclusive Offers
 Explore special deals and discounts on various hotel packages, designed to enhance your stay.
-![Exclusive Offers](ss/Screenshot2.jpg)
+![Exclusive Offers](ss/Screenshot2.png)
 
 ### Featured Destinations
 A curated selection of top-rated hotels and villas in popular destinations.
-![Featured Destinations](ss/Screenshot3.jpg)
+![Featured Destinations](ss/Screenshot3.png)
 
 ### Hotel Rooms Listing
 Browse a list of available hotel rooms with filtering options by popular criteria and price range.
-![Hotel Rooms Listing](ss/Screenshot4.jpg)
+![Hotel Rooms Listing](ss/Screenshot4.png)
 
 ### Detailed Room View
 A closer look at a specific hotel room, displaying multiple images, reviews, location, amenities, and pricing.
-![Detailed Room View](ss/Screenshot5.jpg)
+![Detailed Room View](ss/Screenshot5.png)
 
 ### Guest Testimonials
 Hear what our satisfied guests have to say about their QuickStay experience.
@@ -67,11 +67,11 @@ Answers to common questions about accommodations, availability, and special offe
 
 ### Create an Account
 The registration form for new users to create an account, offering options to continue with Google or use email.
-![Create an Account](ss/Screenshot8.jpg)
+![Create an Account](ss/Screenshot8.png)
 
 ### Register Your Hotel
 A modal form for hotel owners to register their hotel with QuickStay by providing details such as hotel name, phone, address, and city.
-![Register Your Hotel](ss/Screenshot9.jpg)
+![Register Your Hotel](ss/Screenshot9.png)
 
 ### Owner Dashboard
 The administrative dashboard for hotel owners to monitor total bookings, track total revenue, and view recent bookings.
