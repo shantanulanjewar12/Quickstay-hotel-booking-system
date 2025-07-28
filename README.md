@@ -25,6 +25,39 @@
 
 ---
 
+## 🖼️ App Screenshots
+
+### 🏠 Home Page
+![Home](path/to/homepage.png)
+
+---
+
+### 🏨 Search Results
+![Search Results](path/to/search.png)
+
+---
+
+### 🛏️ Hotel Details Page
+![Hotel Details](path/to/details.png)
+
+---
+
+### ✅ Booking Confirmation
+![Booking](path/to/booking-confirmation.png)
+
+---
+
+### 👤 User Profile
+![Profile](path/to/profile.png)
+
+---
+
+### 🏗️ Hotel Registration (Admin)
+![Register](path/to/register.png)
+
+
+---
+
 🔁 Frontend-Backend Flow
 - React frontend sends authenticated API requests using Axios.
 - Clerk manages user sessions; tokens are passed in headers.
