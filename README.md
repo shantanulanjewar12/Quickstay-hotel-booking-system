@@ -41,28 +41,28 @@
 The landing page of QuickStay, showcasing a visually appealing background and the main search functionality for destinations, check-in/check-out dates, and guests.
 ![Homepage - Discover Your Perfect Gateway Destination](ss/Screenshot1.png)
 
-### Exclusive Offers
-Explore special deals and discounts on various hotel packages, designed to enhance your stay.
-![Exclusive Offers](ss/Screenshot2.png)
-
 ### Featured Destinations
 A curated selection of top-rated hotels and villas in popular destinations.
+![Exclusive Offers](ss/Screenshot2.png)
+
+### Exclusive Offers
+Explore special deals and discounts on various hotel packages, designed to enhance your stay.
 ![Featured Destinations](ss/Screenshot3.png)
-
-### Hotel Rooms Listing
-Browse a list of available hotel rooms with filtering options by popular criteria and price range.
-![Hotel Rooms Listing](ss/Screenshot4.png)
-
-### Detailed Room View
-A closer look at a specific hotel room, displaying multiple images, reviews, location, amenities, and pricing.
-![Detailed Room View](ss/Screenshot5.png)
 
 ### Guest Testimonials
 Hear what our satisfied guests have to say about their QuickStay experience.
-![Guest Testimonials](ss/Screenshot6.png)
+![Hotel Rooms Listing](ss/Screenshot4.png)
 
 ### Frequently Asked Questions (FAQs)
 Answers to common questions about accommodations, availability, and special offers.
+![Detailed Room View](ss/Screenshot5.png)
+
+### Hotel Rooms Listing
+Browse a list of available hotel rooms with filtering options by popular criteria and price range.
+![Guest Testimonials](ss/Screenshot6.png)
+
+### Detailed Room View
+A closer look at a specific hotel room, displaying multiple images, reviews, location, amenities, and pricing.
 ![Frequently Asked Questions (FAQs)](ss/Screenshot7.png)
 
 ### Create an Account
@@ -77,17 +77,10 @@ A modal form for hotel owners to register their hotel with QuickStay by providin
 The administrative dashboard for hotel owners to monitor total bookings, track total revenue, and view recent bookings.
 ![Owner Dashboard](ss/Screenshot10.png)
 
-### My Bookings (Paid)
-A user's booking history, showing a successfully paid reservation for "Hotel Shree Villa" with check-in and check-out dates.
-![My Bookings (Paid)](ss/Screenshot11.png)
-
-### Owner Dashboard with Live Chat
-The hotel owner's dashboard displaying total bookings and revenue, along with a live chat interface on the right.
-![Owner Dashboard with Live Chat](ss/Screenshot12.png)
-
 ### Add Room
 The interface for hotel owners to add new room listings, including options to upload images, specify room type, price, and amenities.
 ![Add Room](ss/Screenshot13.png)
+
 
 ### Room Listings
 A page displaying all listed rooms, their facilities, price per night, and an action toggle for availability.
@@ -96,6 +89,19 @@ A page displaying all listed rooms, their facilities, price per night, and an ac
 ### My Bookings (Unpaid)
 A user's booking history, showing an unpaid reservation for "Hotel Shree Villa" with an option to "Pay Now."
 ![My Bookings (Unpaid)](ss/Screenshot15.png)
+
+### My Bookings (Paid)
+A user's booking history, showing a successfully paid reservation for "Hotel Shree Villa" with check-in and check-out dates.
+![My Bookings (Paid)](ss/Screenshot11.png)
+
+### Owner Dashboard with Live Chat
+The hotel owner's dashboard displaying total bookings and revenue, along with a live chat interface on the right.
+![Owner Dashboard with Live Chat](ss/Screenshot12.png)
+
+
+
+
+
 
 
 ---
