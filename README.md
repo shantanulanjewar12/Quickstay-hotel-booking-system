@@ -15,6 +15,15 @@
 - 💳 Secure payments via Stripe
 - 📬 Booking confirmation emails
 - 🔐 Clerk authentication & profile dashboard
+  
+- **Effortless Search:** Easily find hotels by destination, check-in/check-out dates, and number of guests.
+- **Exclusive Deals:** Discover limited-time offers and special packages for enhanced stays.
+- **Diverse Accommodations:** Browse a wide selection of hotels and villas in various cities.
+- **Detailed Room Information:** View comprehensive details, images, and pricing for each room.
+- **Guest Reviews:** Read testimonials from other travelers to make informed decisions.
+- **Owner Dashboard:** For hotel owners to monitor bookings, track revenue, and manage room listings.
+- **User-friendly Interface:** A clean and responsive design ensures a smooth Browse experience.
+- **Secure Account Creation:** Register and log in securely to manage your bookings and preferences.
 
 ### 🛠️ Hotel Owner Features
 - 🏨 Register as a hotel owner
@@ -26,34 +35,67 @@
 ---
 
 ## 🖼️ App Screenshots
-
-### 🏠 Home Page
-![Home](path/to/homepage.png)
-
 ---
 
-### 🏨 Search Results
-![Search Results](path/to/search.png)
+### Homepage - Discover Your Perfect Gateway Destination
+The landing page of QuickStay, showcasing a visually appealing background and the main search functionality for destinations, check-in/check-out dates, and guests.
+![Homepage - Discover Your Perfect Gateway Destination](ss/Screenshot1.jpg)
 
----
+### Exclusive Offers
+Explore special deals and discounts on various hotel packages, designed to enhance your stay.
+![Exclusive Offers](ss/Screenshot2.jpg)
 
-### 🛏️ Hotel Details Page
-![Hotel Details](path/to/details.png)
+### Featured Destinations
+A curated selection of top-rated hotels and villas in popular destinations.
+![Featured Destinations](ss/Screenshot3.jpg)
 
----
+### Hotel Rooms Listing
+Browse a list of available hotel rooms with filtering options by popular criteria and price range.
+![Hotel Rooms Listing](ss/Screenshot4.jpg)
 
-### ✅ Booking Confirmation
-![Booking](path/to/booking-confirmation.png)
+### Detailed Room View
+A closer look at a specific hotel room, displaying multiple images, reviews, location, amenities, and pricing.
+![Detailed Room View](ss/Screenshot5.jpg)
 
----
+### Guest Testimonials
+Hear what our satisfied guests have to say about their QuickStay experience.
+![Guest Testimonials](ss/Screenshot6.png)
 
-### 👤 User Profile
-![Profile](path/to/profile.png)
+### Frequently Asked Questions (FAQs)
+Answers to common questions about accommodations, availability, and special offers.
+![Frequently Asked Questions (FAQs)](ss/Screenshot7.png)
 
----
+### Create an Account
+The registration form for new users to create an account, offering options to continue with Google or use email.
+![Create an Account](ss/Screenshot8.jpg)
 
-### 🏗️ Hotel Registration (Admin)
-![Register](path/to/register.png)
+### Register Your Hotel
+A modal form for hotel owners to register their hotel with QuickStay by providing details such as hotel name, phone, address, and city.
+![Register Your Hotel](ss/Screenshot9.jpg)
+
+### Owner Dashboard
+The administrative dashboard for hotel owners to monitor total bookings, track total revenue, and view recent bookings.
+![Owner Dashboard](ss/Screenshot10.png)
+
+### My Bookings (Paid)
+A user's booking history, showing a successfully paid reservation for "Hotel Shree Villa" with check-in and check-out dates.
+![My Bookings (Paid)](ss/Screenshot11.png)
+
+### Owner Dashboard with Live Chat
+The hotel owner's dashboard displaying total bookings and revenue, along with a live chat interface on the right.
+![Owner Dashboard with Live Chat](ss/Screenshot12.png)
+
+### Add Room
+The interface for hotel owners to add new room listings, including options to upload images, specify room type, price, and amenities.
+![Add Room](ss/Screenshot13.png)
+
+### Room Listings
+A page displaying all listed rooms, their facilities, price per night, and an action toggle for availability.
+![Room Listings](ss/Screenshot14.png)
+
+### My Bookings (Unpaid)
+A user's booking history, showing an unpaid reservation for "Hotel Shree Villa" with an option to "Pay Now."
+![My Bookings (Unpaid)](ss/Screenshot15.png)
 
 
 ---
