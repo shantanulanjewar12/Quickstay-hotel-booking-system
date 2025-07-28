@@ -62,27 +62,29 @@ Nodemailer sends booking confirmation emails.
 ---
 
 ## 📂 Folder Structure
+
+```bash
 QuickStay/
-├── client/ # React Frontend
-│ ├── src/
-│ │ ├── assets/ # Static images/icons
-│ │ ├── components/ # Shared UI components
-│ │ ├── context/ # AppContext for global state
-│ │ ├── pages/ # Main routes like Home, Rooms, Booking, Owner Dashboard
-│ │ └── main.jsx # React app entry
-│ ├── public/
-│ ├── .env.local # Frontend environment variables
-│ └── vite.config.js
+├── client/               # React Frontend
+│   ├── src/
+│   │   ├── assets/       # Static images/icons
+│   │   ├── components/   # Shared UI components
+│   │   ├── context/      # AppContext for global state
+│   │   ├── pages/        # Main routes like Home, Rooms, Booking, Owner Dashboard
+│   │   └── main.jsx      # React app entry
+│   ├── public/
+│   ├── .env.local        # Frontend environment variables
+│   └── vite.config.js
 │
-├── server/ # Express Backend
-│ ├── configs/ # Cloudinary, DB, Nodemailer config
-│ ├── controllers/ # Logic for hotel, booking, user, stripe
-│ ├── middleware/ # Auth & upload middleware
-│ ├── models/ # Mongoose schemas
-│ ├── routes/ # API route definitions
-│ ├── inngest/ # Event handling logic
-│ ├── .env # Server environment variables
-│ └── server.js # Express server entry
+├── server/               # Express Backend
+│   ├── configs/          # Cloudinary, DB, Nodemailer config
+│   ├── controllers/      # Logic for hotel, booking, user, stripe
+│   ├── middleware/       # Auth & upload middleware
+│   ├── models/           # Mongoose schemas
+│   ├── routes/           # API route definitions
+│   ├── inngest/          # Event handling logic
+│   ├── .env              # Server environment variables
+│   └── server.js         # Express server entry
 
 
 
